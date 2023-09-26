@@ -1,24 +1,40 @@
 {
   "files": {
     "main.css": "/static/css/main.4f8cbafb.css",
-    "main.js": "/static/js/main.e194aa97.js",
+    "main.js": "/static/js/main.23449da6.js",
     "static/js/787.1ab4cb6e.chunk.js": "/static/js/787.1ab4cb6e.chunk.js",
     "static/media/default.png": "/static/media/default.7a2f1fd2e30f95342977.png",
+    "static/media/pinkclub.png": "/static/media/pinkclub.f065178a99210aeead24.png",
+    "static/media/pinkheart.png": "/static/media/pinkheart.01578eae0f769008c8fd.png",
+    "static/media/yellowclub.png": "/static/media/yellowclub.f64722099a0407119086.png",
+    "static/media/yellowheart.png": "/static/media/yellowheart.612cf2d13dae6c94cd3e.png",
+    "static/media/purpleheart.png": "/static/media/purpleheart.f49ff9f57daceaacab49.png",
+    "static/media/purpleclub.png": "/static/media/purpleclub.c0ca2ffc73b1b1635dc4.png",
+    "static/media/redclub.png": "/static/media/redclub.c11e0c1db42ee3b499fb.png",
+    "static/media/pinkspade.png": "/static/media/pinkspade.0454564cbf777bb6ce8b.png",
+    "static/media/redheart.png": "/static/media/redheart.5aaae300cf220f4e8849.png",
+    "static/media/yellowspade.png": "/static/media/yellowspade.6abdb35c9ab15b6822f7.png",
+    "static/media/purplespade.png": "/static/media/purplespade.4c512d3253876d08dab2.png",
+    "static/media/redspade.png": "/static/media/redspade.6e66ed643bf680bf11e4.png",
     "static/media/club.png": "/static/media/club.422d5d9cdc73555b602b.png",
     "static/media/heart.png": "/static/media/heart.6c22d1e4352b9fa7d507.png",
     "static/media/spade.png": "/static/media/spade.55957b5d051d38dee2c4.png",
     "static/media/red.png": "/static/media/red.3d1d5a2e37abb61f3265.png",
+    "static/media/pinkdiamond.png": "/static/media/pinkdiamond.7b449f678ea4360248da.png",
     "static/media/pink.png": "/static/media/pink.30ae536968bb20791610.png",
+    "static/media/purplediamond.png": "/static/media/purplediamond.2bbb8fb5052fe7675a46.png",
+    "static/media/yellowdiamond.png": "/static/media/yellowdiamond.9d4a41530c8e301cb22e.png",
+    "static/media/reddiamond.png": "/static/media/reddiamond.c931c1c86eef7910f5e6.png",
     "static/media/purple.png": "/static/media/purple.01fd645cd007e33eda76.png",
     "static/media/yellow.png": "/static/media/yellow.12dd71c6e9521c908a6b.png",
     "static/media/diamond.png": "/static/media/diamond.36ac2694f47aafca2c03.png",
     "index.html": "/index.html",
     "main.4f8cbafb.css.map": "/static/css/main.4f8cbafb.css.map",
-    "main.e194aa97.js.map": "/static/js/main.e194aa97.js.map",
+    "main.23449da6.js.map": "/static/js/main.23449da6.js.map",
     "787.1ab4cb6e.chunk.js.map": "/static/js/787.1ab4cb6e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4f8cbafb.css",
-    "static/js/main.e194aa97.js"
+    "static/js/main.23449da6.js"
   ]
 }
